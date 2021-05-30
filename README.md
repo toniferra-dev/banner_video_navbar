@@ -17,3 +17,9 @@ PreCompilador SASS
 ---
 ###### _Copyright 2020 - Toni Ferra_
 
+
+---
+#VIDEO + NAVBAR
+~~~
+Vamos a conseguir tener un vídeo de fondo y encima del vídeo nuestras construcción de HEADER.
+~~~ 
